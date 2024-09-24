@@ -15,3 +15,4 @@ https://testnet.binance.vision/
 - Binance Connector Python: https://github.com/binance/binance-connector-python
 
 
+# binance-bots
