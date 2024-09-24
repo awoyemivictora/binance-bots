@@ -1,3 +1,0 @@
-([('binance_order',
-   '/Users/user/Pictures/Programming/Python/Binance/dist/binance_order',
-   'EXECUTABLE')],)
